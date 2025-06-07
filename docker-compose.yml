@@ -1,5 +1,0 @@
-services:
-  docker-console-app:
-   image: console-image:latest
-   container_name: 
-   working_dir: /app
