@@ -6,7 +6,7 @@
         while (true)
         {
             await Task.Delay(1000);
-            Console.WriteLine($"Updated {i++}");
+            Console.WriteLine($"Updated again {i++}");
         }
     }
 }
